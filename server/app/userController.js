@@ -1,8 +1,3 @@
-// const createUser=(data)=>{
-//     const user  
-// }
-
-// export {createUser};
 import { decryptPass } from "./utilis.js"
 const logIn= async (user, array)=>{
     user=JSON.parse(user)
