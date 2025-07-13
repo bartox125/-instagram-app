@@ -1,0 +1,9 @@
+.flip{
+    transform: scaleX(-1); 
+}
+.flop{
+    transform: scaleY(-1);
+}
+.green{
+    filter: grayscale(100%) brightness(1.0) sepia(0.8) hue-rotate(90deg) saturate(4);
+}
